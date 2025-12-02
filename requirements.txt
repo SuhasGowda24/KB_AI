@@ -3,7 +3,9 @@ chromadb
 pydantic==2.8.2
 requests
 numpy
-
+faiss-cpu
+python-docx
+PyPDF2
 # ML / embeddings
 sentence-transformers==2.6.1
 torch --index-url https://download.pytorch.org/whl/cpu
