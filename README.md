@@ -1,5 +1,10 @@
 # 📚 AI Knowledge Base RAG Agent (Streamlit + Groq)
 
+## 🌐 Live App  
+👉 **https://suhasgowda24-kb-ai-app-cghexq.streamlit.app/**
+
+[![Streamlit App](https://img.shields.io/badge/Launch_Streamlit_App-brightgreen?logo=streamlit)](https://suhasgowda24-kb-ai-app-cghexq.streamlit.app/)
+
 A fully functional Knowledge-Base RAG system using:
 
 - Streamlit
